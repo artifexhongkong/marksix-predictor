@@ -4,8 +4,6 @@ import {
   BarChart3,
   History,
   TrendingUp,
-  Flame,
-  Snowflake,
   RefreshCw,
   Save,
   Target,
